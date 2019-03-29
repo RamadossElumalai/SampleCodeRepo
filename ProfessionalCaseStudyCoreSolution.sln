@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRMSystemCoreWebv2.Tests", "CRMSystemCoreWebv2.Tests\CRMSystemCoreWebv2.Tests.csproj", "{37862558-0190-4646-8304-48E3E97BDC78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FC4BD3F-3FC2-4DE4-BFBE-580E793D2311}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMSystemCoreWebv2", "CRMSystemCoreWebv2\CRMSystemCoreWebv2.csproj", "{BD491952-856C-4B36-A318-217169EA7F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37862558-0190-4646-8304-48E3E97BDC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37862558-0190-4646-8304-48E3E97BDC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37862558-0190-4646-8304-48E3E97BDC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37862558-0190-4646-8304-48E3E97BDC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD491952-856C-4B36-A318-217169EA7F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD491952-856C-4B36-A318-217169EA7F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD491952-856C-4B36-A318-217169EA7F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD491952-856C-4B36-A318-217169EA7F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63B6F5B-73AA-4A9C-AC04-E9DDD04FBBF6}
+	EndGlobalSection
+EndGlobal
